@@ -1,0 +1,19 @@
+{
+  "name": "bate-ponto",
+  "version": "1.0.0",
+  "description": "Sistema bate ponto ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "npm test"
+  },
+  "author": "Jhonathan & Raian",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-async": "^0.9.9",
+    "readline-promise": "^1.0.4",
+    "serialport": "^7.0.2",
+    "terminal-menu": "^2.1.1",
+    "xregexp": "^4.2.4"
+  }
+}
